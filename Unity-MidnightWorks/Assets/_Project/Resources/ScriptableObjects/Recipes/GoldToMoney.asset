@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c0fc3341b6c4683978f2faa35f32749, type: 3}
+  m_Name: GoldToMoney
+  m_EditorClassIdentifier: 
+  _need:
+    Item: {fileID: 11400000, guid: 731fecc8f25ff924fa3d88577c7dad64, type: 2}
+    Amount: 1
+  _give:
+    Item: {fileID: 11400000, guid: 2e8e3ab3aee54f64f88015fb8dfabc15, type: 2}
+    Amount: 5

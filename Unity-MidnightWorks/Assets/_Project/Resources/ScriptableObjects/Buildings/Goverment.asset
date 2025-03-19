@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 935a8ee4f8324036a5154a01819b8b86, type: 3}
+  m_Name: Goverment
+  m_EditorClassIdentifier: 
+  _guid: ccb662f3-f477-4e79-9ba4-f44b064409f1
+  _title: Goverment
+  _icon: {fileID: 21300000, guid: 04f97aec6dcc71e4c836c18a633a9d96, type: 3}
+  _prefab: {fileID: 6251261139234416659, guid: 531a9105302c0b846aee4915255ecae3, type: 3}
+  _price:
+    Item: {fileID: 11400000, guid: 2e8e3ab3aee54f64f88015fb8dfabc15, type: 2}
+    Amount: 100
+  _brings:
+    Item: {fileID: 11400000, guid: 2e8e3ab3aee54f64f88015fb8dfabc15, type: 2}
+    Amount: 100
